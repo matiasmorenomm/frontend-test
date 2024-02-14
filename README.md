@@ -1,6 +1,6 @@
 - Instalar paquetes
 
-### `npm install`
+### `yarn install`
 
 - Crear Archivo .env ( Se debe completar con la información de la API):
 
@@ -8,4 +8,4 @@
 
 Ejecutar Proyecto:
 
-### `npm start`
+### `yarn start`
